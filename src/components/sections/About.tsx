@@ -42,9 +42,7 @@ export default function About() {
             <span className="text-gradient">About Me</span>
           </h2>
           <p className="text-lg md:text-xl text-muted text-center mb-12 leading-relaxed">
-            Hi, my name is <span className="text-white font-semibold">Dharneesh R</span>, a passionate 
-            AI & Full Stack Developer based in Coimbatore, dedicated to crafting clean, functional, 
-            and highly scalable web applications powered by AI.
+            Hi, my name is <span className="text-white font-semibold">Dharneesh R</span>, I am an enthusiastic Computer Science graduate with a strong foundation in Java, Data Structures & Algorithms, and modern web technologies. I am passionate about developing impactful software solutions and continuously enhancing my technical expertise through hands-on projects and coding challenges. I enjoy solving complex problems, learning new technologies, and collaborating with teams to build scalable and user-focused applications. My curiosity, dedication, and growth mindset motivate me to deliver high-quality solutions while adapting quickly to new challenges. I am actively seeking a Software Developer role where I can contribute my technical skills, learn from industry experts, and grow into a highly skilled software engineer while creating meaningful products that make a difference.
           </p>
 
           <div className="text-center mb-12">

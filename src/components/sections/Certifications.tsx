@@ -48,6 +48,16 @@ const certificationsData = [
     issuer: 'Deloitte',
     id: 'Deloitte-DA',
   },
+  {
+    name: 'AI Powered News Summarizer',
+    issuer: 'PMC Tech',
+    id: 'National Conference on emerging phenomena in Artificial Intelligence and Data Science Technologies',
+  },
+    {
+    name: 'Smart Platform for Reuse and Skill Sharing',
+    issuer: 'NGP I-Tech',
+    id: 'PROJECT EXPO 2026',
+  },
 ];
 
 // Achievements Data
